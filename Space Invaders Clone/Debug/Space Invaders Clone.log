@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Gabriel Mori\source\repos\Space Invaders Clone\Space Invaders Clone\main.cpp(45,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Space Invaders Clone.vcxproj -> C:\Users\Gabriel Mori\source\repos\Space Invaders Clone\Debug\Space Invaders Clone.exe
